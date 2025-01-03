@@ -1,0 +1,11 @@
+Please make sure to run the sql files in this order:
+
+Domains
+Create
+Fks
+Relationships
+Triggers & Procedure f
+populate
+Security
+
+Then run the complex queries you want
